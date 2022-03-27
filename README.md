@@ -1,7 +1,9 @@
 # Wordle
 
 This is a recreation of the popular wordle game, instead of wating hours for a new word to appear in the original game here you can play it as many times
-as you want. This is an executable file and you must have python installed for it to work
+as you want. 
+
+NOTE: This is an executable file and you MUST have python installed for it to work
 
 # How to play
 - You have 5 guesses 
