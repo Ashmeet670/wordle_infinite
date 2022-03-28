@@ -14,21 +14,21 @@ class text:
 def game():
 
     word = "Default"
-    wordList = ["hello", "world", "angry", "angle", "words", "water",
-                "apple", "mango", "grade", "teams", "peace", "meant",
-                "fight", "beach", "adult", "award", "block", "blood",
-                "bread", "brain", "break", "chain", "chair", "chief",
-                "child", "draft", "drama", "coast", "cover", "crime",
-                "final", "floor", "force", "frame", "fault", "field",
-                "hotel", "house", "green", "group", "index", "input",
-                "issue", "knife", "judge", "lunch", "limit", "speed",
-                "light", "heavy", "match", "metal", "march", "model",
-                "money", "month", "night", "music", "north", "noise",
-                "offer", "order", "owner", "plant", "plane", "point",
-                "radio", "range", "round", "score", "scale", "share",
-                "sense", "shift", "shock", "shirt", "sleep", "sport",
-                "staff", "table", "union", "truth", "trust", "value",
-                "video", "whole", "class", "close", "wheat", "print",
+    wordList = ["hello", "world", "angry", "angle", "words", "water", "melon",
+                "apple", "mango", "grade", "teams", "peace", "meant", "write",
+                "fight", "beach", "adult", "award", "block", "blood", "wrote",
+                "bread", "brain", "break", "chain", "chair", "chief", "meter",
+                "child", "draft", "drama", "coast", "cover", "crime", "tweak",
+                "final", "floor", "force", "frame", "fault", "field", "while",
+                "hotel", "house", "green", "group", "index", "input", "motor",
+                "issue", "knife", "judge", "lunch", "limit", "speed", "small",
+                "light", "heavy", "match", "metal", "march", "model", "large",
+                "money", "month", "night", "music", "north", "noise", "glass",
+                "offer", "order", "owner", "plant", "plane", "point", "steel",
+                "radio", "range", "round", "score", "scale", "share", "april",
+                "sense", "shift", "shock", "shirt", "sleep", "sport", "false",
+                "staff", "table", "union", "truth", "trust", "value", "start",
+                "video", "whole", "class", "close", "wheat", "print", "break",
                 "among", "apply", "upper", "lower", "basic", "first"]
 
     word = random.choice(wordList)
