@@ -7,8 +7,14 @@ NOTE: This is an executable file and you MUST have python installed for it to wo
 
 # How to play
 - You have 5 guesses 
-- Try to guess the random 5 - Letter word choosen by the computer
+- Try to guess the random word choosen by the computer
 - The alphabets will change color indicating it's use in the correct word
+
+# Difficulties
+- There are 3 difficulties - Beginenr, Intermediate , Expert
+- Beginner will make the computer choose a 4-letter word
+- Intermediate will make the computer choose a 5-letter word
+- Expert will make the computer choose a 6-letter word
 
 # Color codes
 - If any of the words in your guess come in the correct word then the word will turn into YELLOW color
