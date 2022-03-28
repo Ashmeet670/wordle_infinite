@@ -23,13 +23,14 @@ NOTE: This is an executable file and you MUST have python installed for it to wo
 
 # Photos / Example
 
-- In this the correct word is "force", I guessed "floor"
+- In this the correct word is "speed", I guessed "spade"
   
-  ![Screenshot 2022-03-27 at 9 51 56 PM](https://user-images.githubusercontent.com/73339721/160290941-8fe6f3cc-63d2-4d9c-bacc-ddc83412d674.png)
+  ![Screenshot 2022-03-28 at 10 20 43 AM](https://user-images.githubusercontent.com/73339721/160328593-a827d149-da51-435a-9d6b-d9c686887eb3.png)
+
   
-- Now as "f" is in the same position in both the correct word and my guess, it turns GREEN
+- Now as "s" and "p" are in the same position in both the correct word and my guess, it turns GREEN
 
-- As "o" and "r" comes in both of the words but is not in the correct position, it turns YELLOW
+- As "d" and "e" comes in both of the words but is not in the correct position, it turns YELLOW
 
-- As "l" does not come in either of the words, it turns RED
+- As "a" does not come in either of the words, it turns RED
 
